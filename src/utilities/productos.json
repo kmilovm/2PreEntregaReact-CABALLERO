@@ -1,0 +1,122 @@
+[
+    {
+        "id": "hortalizas-01",
+        "titulo": "Pimentones 250 grs",
+        "imagen": "./img/productos/hortalizas/01.png",
+        "precio": 8400,
+        "categoria": {
+            "nombre": "Hortalizas",
+            "id": "hortalizas"
+        }
+    },
+    {
+        "id": "hortalizas-02",
+        "titulo": "Remolachas 300 grs",
+        "imagen": "./img/productos/hortalizas/02.png",
+        "precio": 6200,
+        "categoria": {
+            "nombre": "Hortalizas",
+            "id": "hortalizas"
+        }
+    },
+    {
+        "id": "hortalizas-03",
+        "titulo": "Zanahorias 300 grs",
+        "imagen": "./img/productos/hortalizas/03.png",
+        "precio": 10650,
+        "categoria": {
+            "nombre": "Hortalizas",
+            "id": "hortalizas"
+        }
+    },
+    {
+        "id": "hortalizas-04",
+        "titulo": "Tomates 300 grs",
+        "imagen": "./img/productos/hortalizas/04.png",
+        "precio": 7300,
+        "categoria": {
+            "nombre": "Hortalizas",
+            "id": "hortalizas"
+        }
+    },
+    {
+        "id": "verduras-01",
+        "titulo": "Berenjena 500 grs",
+        "imagen": "./img/productos/verduras/01.png",
+        "precio": 5500,
+        "categoria": {
+            "nombre": "Verduras",
+            "id": "verduras"
+        }
+    },
+    {
+        "id": "verduras-02",
+        "titulo": "Brócoli 300 grs",
+        "imagen": "./img/productos/verduras/02.png",
+        "precio": 2600,
+        "categoria": {
+            "nombre": "Verduras",
+            "id": "verduras"
+        }
+    },
+    {
+        "id": "verduras-03",
+        "titulo": "Cebollas colores 500 grs",
+        "imagen": "./img/productos/verduras/03.png",
+        "precio": 5400,
+        "categoria": {
+            "nombre": "Verduras",
+            "id": "verduras"
+        }
+    },
+    {
+        "id": "frutas-01",
+        "titulo": "Limones 500 grs",
+        "imagen": "./img/productos/frutas/01.png",
+        "precio": 4200,
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        }
+    },
+    {
+        "id": "frutas-02",
+        "titulo": "Fresas 500 grs",
+        "imagen": "./img/productos/frutas/02.png",
+        "precio": 11700,
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        }
+    },
+    {
+        "id": "frutas-03",
+        "titulo": "Naranjas 500 grs",
+        "imagen": "./img/productos/frutas/03.png",
+        "precio": 2650,
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        }
+    },
+    {
+        "id": "otros-01",
+        "titulo": "Miel Orgánica 500 grs",
+        "imagen": "./img/productos/otros/01.png",
+        "precio": 35600,
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        }
+    },
+    {
+        "id": "otros-02",
+        "titulo": "Mermelada Orgánica Sabores 250 grs ",
+        "imagen": "./img/productos/otros/02.png",
+        "precio": 13600,
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        }
+    }
+]
