@@ -16,7 +16,7 @@ function App() {
         <Route path="/otros" exact element={<div>Otros</div>} />
         <Route path="*" element={<div>Página no encontrada</div>} />
       </Routes>
-      <ItemListContainer greeting="Bienvenidos a su mercado virtual de Orgánicos del Retiro" />
+      <ItemListContainer greeting="Bienvenido a tu mercado virtual de Orgánicos del Retiro" />
     </BrowserRouter>
   );
 }
