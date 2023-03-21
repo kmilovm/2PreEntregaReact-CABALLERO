@@ -6,7 +6,7 @@ function ItemListContainer({ greeting }) {
 
   useEffect(() => {
     const obtenerProductos = async () => {
-      const response = await fetch('../utilities/productos.json');
+      const response = await fetch('./productos.json');
       const data = await response.json();
       setProductos(data);
       console.log('Productos:', data); 
@@ -30,4 +30,5 @@ function ItemListContainer({ greeting }) {
 }
 
 export default ItemListContainer;
+
 
